@@ -17,6 +17,9 @@ h1{
     padding-top: 20px;
 
 }
+.top img{
+    width: 100%;
+}
 .topp{
     font-size: 20px;
     font-weight: 700;
@@ -53,4 +56,54 @@ h1{
     width: auto;
     height: 100px;
     padding-top: 20px; margin-bottom: 200px;
+}
+.box{
+    display: flex;
+  
+}
+.fbox{
+    background-color: aqua
+}
+.sbox{
+    background-color: cornsilk;
+   
+}
+.ebox{
+    background-color: cornflowerblue;
+}
+
+.art{margin-top: 100px;
+    display:flex;
+    margin-bottom: 50px;
+}
+.wart{
+    width: 60%;
+    padding-left: 5%;
+    padding-right: 10px;
+}
+.wart img{
+    width: 70%;
+}
+
+.bmail{ background-color:antiquewhite;
+
+}
+.mail{margin-top: 300px;
+    text-align: center;
+
+    height: 100px;
+    padding-top: 20px; margin-bottom: 80px;
+      
+}
+.ft{
+    font-family: 'Asap', sans-serif;
+font-family: 'Lobster', cursive;
+color: coral;
+text-align: center;
+font-size: 80px;
+background-color: black;
+
+}
+.pf{
+    text-align: center;
 }
